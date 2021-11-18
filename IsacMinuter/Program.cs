@@ -12,5 +12,5 @@ double Isacminuter = Double.Parse(input);
 
 Isacminuter = isacMinuter.HurMångaMinuterSaHan(Isacminuter);
 
-Console.WriteLine(Isacminuter);
+Console.WriteLine($"Isac kommer om {Isacminuter} minuter." );
 
